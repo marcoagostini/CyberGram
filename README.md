@@ -10,14 +10,6 @@ A deliberately vulnerable social media clone for security testing and learning.
 | alice | password |
 | bob | bob2024 |
 
-### Reset the Lab
-
-Restart the container to reset everything (database, uploads) back to the default state:
-
-```bash
-docker restart <container_id>
-```
-
 ## Your Mission
 
 This application contains **7 security vulnerabilities**. Find and exploit them.
