@@ -2,19 +2,6 @@
 
 A deliberately vulnerable social media clone for security testing and learning.
 
-## Getting Started
-
-### Requirements
-- [Docker](https://www.docker.com/products/docker-desktop/)
-
-### Run the Lab
-
-```bash
-docker run -p 8000:8000 marcothedebugger/cybergram
-```
-
-Open **http://localhost:8000** in your browser.
-
 ### User Accounts
 
 | Username | Password |
